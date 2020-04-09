@@ -143,7 +143,7 @@ export default {
           content:
             this.title +
             ' | ' +
-            this.$t('東京都') +
+            this.$t('渋家') +
             ' ' +
             this.$t('新型コロナウイルス感染症') +
             this.$t('対策サイト')
