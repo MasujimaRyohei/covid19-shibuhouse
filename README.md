@@ -1,8 +1,8 @@
 # 渋家 新型コロナウイルス感染症対策サイト
 
-![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
+![](https://github.com/MasujimaRyohei/covid19-shibuhouse/workflows/production%20deploy/badge.svg)
 
-[![東京都 新型コロナウイルス感染症対策サイト](https://user-images.githubusercontent.com/1301149/75629392-1d19d900-5c25-11ea-843d-2d4376e3a560.png)](https://stopcovid19.metro.tokyo.lg.jp/)
+[![渋家 新型コロナウイルス感染症対策サイト](https://user-images.githubusercontent.com/17163541/78853699-7b26b100-7a5a-11ea-9729-6476afff83d7.jpg)](https://stopcovid19-shibuhouse.netlify.com/)
 
 ### 日本語 | [English](./docs/en/README.md) | [Español](./docs/es/README.md) | [한국어](./docs/ko/README.md) | [繁體中文](./docs/zh_TW/README.md) | [简体中文](./docs/zh_CN/README.md) | [Tiếng Việt](./docs/vi/README.md) | [ภาษาไทย](./docs/th/README.md) | [Français](./docs/fr/README.md)
 
