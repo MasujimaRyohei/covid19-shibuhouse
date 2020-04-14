@@ -13,7 +13,7 @@
           <img
             class="SideNavigation-HeaderLogo"
             src="/logo.svg"
-            :alt="$t('東京都')"
+            :alt="$t('渋家')"
           />
           <div class="SideNavigation-HeaderText">
             {{ $t('menu/新型コロナウイルス感染症') }}<br />{{
@@ -107,7 +107,7 @@
           </a>
           {{ $t('の下に提供されています。') }}
           <br />
-          2020 Tokyo Metropolitan Government
+          2020 MasujimaRyohei
         </small>
       </footer>
     </div>
@@ -192,8 +192,12 @@ export default Vue.extend({
           link: this.localePath('/contacts')
         },
         {
-          title: this.$t('東京都公式ホームページ'),
-          link: 'https://www.metro.tokyo.lg.jp/'
+          title: this.$t('渋家公式ホームページ'),
+          link: 'https://shibuhouse.com/'
+        },
+         {
+          title: this.$t('渋家引越し特設ページ'),
+          link: 'https://hikkoshi.shibuhouse.com/'
         }
       ]
     }
